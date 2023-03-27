@@ -1,2 +1,2 @@
-# Curr-culo-HTML
+# Currículo-HTML
 Currículo feito em HTML
